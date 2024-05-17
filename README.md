@@ -21,8 +21,7 @@ Follow these instructions to set up a copy of the project on your local machine 
 
 # Usage
 - Open the project in your preferred text editor.
-- Launch the game: 
-  -- Open index.html in your web browser to start the game.
+- Launch the game: Open index.html in your web browser to start the game.
 
 # Game Rules
 - The player is presented with a scrambled set of letters.
@@ -33,11 +32,11 @@ Follow these instructions to set up a copy of the project on your local machine 
 # Contributing
 - Contributions are welcome! Follow these steps to contribute:
 
--- Fork the repository.
--- Create a new branch (git checkout -b feature/your-feature).
--- Commit your changes (git commit -m 'Add some feature').
--- Push to the branch (git push origin feature/your-feature).
--- Open a pull request.
+- Fork the repository.
+- Create a new branch (git checkout -b feature/your-feature).
+- Commit your changes (git commit -m 'Add some feature').
+- Push to the branch (git push origin feature/your-feature).
+- Open a pull request.
 
 # License
 -This project is licensed under the MIT License. See the LICENSE file for more details.
