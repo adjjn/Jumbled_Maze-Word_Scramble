@@ -39,10 +39,10 @@ Follow these instructions to set up a copy of the project on your local machine 
 - Open a pull request.
 
 # License
--This project is licensed under the MIT License. See the LICENSE file for more details.
+- This project is licensed under the MIT License. See the LICENSE file for more details.
 
 # Contact
-- Project Developer & Maintainer: ADITI JAIN
+  Project Developer & Maintainer: ADITI JAIN
 - Email: jainaditi.adi@gmail.com
 - GitHub:https://github.com/adjjn
 
