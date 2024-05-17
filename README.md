@@ -30,8 +30,7 @@ Follow these instructions to set up a copy of the project on your local machine 
 - The objective is to unscramble as many words as possible within the given time.
 
 # Contributing
-- Contributions are welcome! Follow these steps to contribute:
-
+Contributions are welcome! Follow these steps to contribute:
 - Fork the repository.
 - Create a new branch (git checkout -b feature/your-feature).
 - Commit your changes (git commit -m 'Add some feature').
